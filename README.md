@@ -1,2 +1,2 @@
 # img_crawler
-从网站爬图
+利用Python从网站爬图
